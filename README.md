@@ -1,4 +1,4 @@
-Big into moving data and making it useful
+big into moving data and making it useful
 <!--
 **jayceslesar/jayceslesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

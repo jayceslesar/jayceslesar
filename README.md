@@ -1,4 +1,4 @@
-big into moving data and making it useful
+big into moving data and making it useful through python, pandas, numpy, scipy, ibis, airflow, and plotly
 
 ![](https://komarev.com/ghpvc/?username=jayceslesar)
 <!--

@@ -1,6 +1,5 @@
 big into moving data and making it useful through python, pandas, numpy, scipy, ibis, airflow, and plotly
 
-![](https://komarev.com/ghpvc/?username=jayceslesar)
 <!--
 **jayceslesar/jayceslesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

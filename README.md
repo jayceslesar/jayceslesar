@@ -1,5 +1,4 @@
-big into moving data and making it useful through python, pandas, numpy, scipy, ibis, airflow, and plotly
-
+big into moving data and making it useful through the modern python data stack
 <!--
 **jayceslesar/jayceslesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
